@@ -37,6 +37,3 @@ This is a simple Optical Character Recognition (OCR) script written in Python us
 - You can adjust the default confidence threshold by modifying the `confidence_threshold` variable in the script.
 
 - The script resizes images to a fixed width (default is 800). You can change this value in the `resize_image` function.
-
-## License
-
